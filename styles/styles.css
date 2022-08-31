@@ -92,7 +92,16 @@
 .centerdiv
 {
     margin-top: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 75px; 
+    margin: auto; /* Center divs */
+}
+
+.smalldate
+{
+    color: grey;
+    margin-top: 2px;
+    font-size: 12px;
+    float:left;
 }
