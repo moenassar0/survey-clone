@@ -1,0 +1,98 @@
+*{
+    font-family: "Sans-Serif";
+}
+.uppercontainer 
+{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 75px; 
+    margin: auto; /* Center divs */
+    height: 75px;
+    width: 600px;
+    background-color: white;
+    text-align: center;
+    color: darkred;
+    font-family: 'Lucida Console'; 
+    font-size: 30px; 
+    font-weight: bold; 
+}
+.lowercontainer 
+{   
+    margin: auto; /* Center divs */
+    height: 1050px;
+    width: 540px;
+    background-color: lightgrey;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.firstrow {
+    color: darkred;
+    font-weight: bold;
+    width: 100%;
+
+  }
+
+.row {
+    font-weight: bold;
+    color: darkred;
+    width: 100%;
+    padding-top: 15%;
+  }
+  
+.block 
+{
+    font-weight: normal;
+    width: 50%;
+    float:left;
+    padding-top: 15px;
+}
+
+.boldblock 
+{
+    font-weight: bold;
+    width: 50%;
+    float:left;
+    padding-top: 15px;
+}
+
+.fullblock 
+{
+    width: 100%;
+    padding-top: 15px;
+}
+
+.textarearesize
+{
+    width: 100%;
+    height: 175px;
+}
+
+.heading
+{
+    color: darkred;
+}
+
+.submit-button
+{
+    width: 175px;
+    height: 50px;
+    background: linear-gradient(#000000, #575757);
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.inputresize
+{
+    width:200px;
+}
+
+.centerdiv
+{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
